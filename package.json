@@ -1,6 +1,6 @@
 {
-  "name": "react-styled-ui",
-  "version": "1.0.0-beta1",
+  "name": "react-styled-ui-kit",
+  "version": "1.0.0",
   "description": "React Styled Component UI Framework",
   "main": "dist/index.cjs.min.js",
   "scripts": {
